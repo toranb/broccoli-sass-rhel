@@ -1,13 +1,13 @@
 {
-  "name": "broccoli-sass",
-  "description": "Libsass-based Sass compiler for Broccoli",
-  "version": "0.3.3",
-  "author": "Jo Liss <joliss42@gmail.com>",
+  "name": "broccoli-sass-rhel",
+  "description": "fork of broccoli-sass for red hat enterprise linux (node-sass 1.1.2 friendly)",
+  "version": "0.0.1",
+  "author": "Toran Billups <toranb@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/joliss/broccoli-sass"
+    "url": "https://github.com/toranb/broccoli-sass-rhel"
   },
   "keywords": [
     "broccoli-plugin",
